@@ -1,0 +1,33 @@
+{
+  "name": "ead-api",
+  "version": "0.0.1",
+  "description": "API da plataforma de ensino à distância",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhscavalcante/pab-ead-api.git"
+  },
+  "keywords": [
+    "plataforma",
+    "EAD",
+    "programador",
+    "a",
+    "bordo"
+  ],
+  "author": "programador a bordo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhscavalcante/pab-ead-api/issues"
+  },
+  "homepage": "https://github.com/jhscavalcante/pab-ead-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1"
+  }
+}
