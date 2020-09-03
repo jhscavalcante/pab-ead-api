@@ -32,6 +32,6 @@
     "nodemon": "^1.19.0"
   },
   "dependencies": {
-    "@hapi/hapi": "^18.3.1"
+    "@hapi/hapi": "^19.1.1"
   }
 }
